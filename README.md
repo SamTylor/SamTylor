@@ -1,9 +1,11 @@
 Hi, I’m @SamTylor 
 -----------------
+I might come off as a bit mentally challegend but i am actually quite intteligent 
+
 I am Curently 21 i have been intrested in software devlopment since i was 15 and i have been teaching myself how to program 
 I have limited resources i don't actually own a desktop my android is my Devemloping platform.
 
-I was born to a uneducated Family that worrys more about fighting and praying.
+I was born to a uneducated Family that worrys more about fighting
 I was born with a social anxiety disorder in a thir world with little to no access to work or oppertunitys 
 My Languages are C#, C+, C++, Java, Solidity, Python and Html.
 I am quite educated about all the above programming languages even Though i 
